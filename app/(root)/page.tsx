@@ -20,7 +20,7 @@ export default function Home() {
           </Button>
       </div>
 
-      <Image src="/robot.png" alt="robo-dude" width={400} height={400}className='max-sm:hidden'></Image>
+      <Image src="/robot.png" alt="robo-dude" width={400} height={400} className='max-sm:hidden'></Image>
     </section>
 
     <section className='flex flex-col gap-6 mt-8'>
